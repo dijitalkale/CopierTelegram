@@ -1,31 +1,31 @@
-# TelegramCopier
-Telegram users scraper from a group to another group.
+# Telegram Kopyalayıcı
+Telegram kullanıcıları bir gruptan başka bir gruba aktarır.
 
-# What is this?
-That's an automated program that gets an user list from any of telegram group or megagroup then adds these users to another group.
+# Nedir Bu?
+Bu, herhangi bir telgraf grubundan veya mega grubundan bir kullanıcı listesi alan ve bu kullanıcıları başka bir gruba ekleyen otomatik bir programdır.
 
-# What's difference between any other bots?
-TelegramCopier includes multithreading, proxy support and forcing sms authentication. You can start as much bot as you have accounts at json files.
+# Diğer botlar arasındaki fark nedir?
+TelegramCopier çok iş parçacıklı, proxy desteği ve sms kimlik doğrulamasını zorunlu kılar. Json dosyalarında hesaplarınız kadar bot başlatabilirsiniz.
 
-# How can i setup my own proxy and which type of proxies are usable?
-TelegramCopier has a full support on Socks5. You can set-up your own proxy server on ubuntu. Check google with 'setting up socks server on ubuntu'
+# Kendi proxy'imi nasıl kurabilirim ve hangi tür proxy'ler kullanılabilir?
+TelegramCopier, Socks5 üzerinde tam bir desteğe sahiptir. Ubuntu'da kendi proxy sunucunuzu kurabilirsiniz. Google'ı 'Ubuntu'da çorap sunucusu kurma' ile kontrol edin
 
-# JSON variables
-"hesaplar" => account list array  
-"aktif" => proxy activation bool  
-"forcesms" => send sms instead of telegram message.  
-"uyelerin_cekilecegi_grup" => group link which will users taken  
-"uyelerin_eklenecegi_grup" => group link which will users be added  
+# JSON değişkenleri
+"hesaplar" => hesap listesi dizisi
+"aktif" => vekil aktivasyon bool
+"forcems" => telgraf mesajı yerine sms gönder.
+"uyelerin_cekilecegi_grup" => kullanıcıların alacağı grup bağlantısı
+"uyelerin_eklenecegi_grup" => kullanıcıların ekleneceği grup bağlantısı
 
-# What's the rate of adding users to another group?
-Unlimited. But generally an account can add 30-80 users daily. So you have to more than 30 accounts to add up to 1k users.
+# Başka bir gruba kullanıcı ekleme oranı nedir?
+Sınırsız. Ancak genellikle bir hesap günde 200 kullanıcı ekleyebilir. Bu yüzden bine kadar kullanıcı eklemek için 30'dan fazla hesaba ihtiyacınız var.
 
-# Channels can be used?
-No. Only groups and megagroups(groups that have a t.me/xxxx link)
+# Kanallar kullanılabilir mi?
+Hayır. Yalnızca gruplar ve mega gruplar (t.me/xxxx bağlantısı olan gruplar)
 
-# Will software be updated?
-Surely if i get some donate to improve :)
+# Yazılım güncellenecek mi?
+Kesinlikle geliştirmek için bağış alırsam :)
 
-# Donations 
-BTC : 1MpVyusWXhhXQtV8nzWQP8ZZjr1dHFVA5j  
-USDT(ERC20) : 0xf091e92302700e5a0f51c23bd0f44bbfa3a06409  
+# Bağışlar 
+BTC : 
+USDT(ERC20) : 
