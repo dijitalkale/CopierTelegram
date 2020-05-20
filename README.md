@@ -24,7 +24,7 @@ Sınırsız. Ancak genellikle bir hesap günde 200 kullanıcı ekleyebilir. Bu y
 Hayır. Yalnızca gruplar ve mega gruplar (t.me/xxxx bağlantısı olan gruplar)
 
 # Yazılım güncellenecek mi?
-Kesinlikle geliştirmek için bağış alırsam :)
+Kesinlikle geliştirmek için bağış alabilirim :)
 
 # Bağışlar 
 BTC : 
